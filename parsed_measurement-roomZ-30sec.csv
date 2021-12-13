@@ -1,0 +1,265 @@
+date,mac,provider,access_point,signal_strength,"quality,unknown2",frequency,stations,device,station_count
+2021-12-06 4:26:09 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-72,62,,"""Ch 52 [5.260 GHz]""","""1 Station, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:09 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-71,65,,"""Ch 11 [2.462 GHz]""","""0 Stations, 47Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-66,78,,"""Ch 11 [2.462 GHz]""","""1 Station, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:09 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-75,53,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:09 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-81,35,,"""Ch 6 [2.437 GHz]""","""2 Stations, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:09 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:09 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""1 Station, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:09 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-70,67,,"""Ch 1 [2.412 GHz]""","""2 Stations, 66Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:09 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-73,60,,"""Ch 1 [2.412 GHz]""","""0 Stations, 41Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""9 Stations, 10Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","9
+"
+2021-12-06 4:26:09 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-71,65,,"""Ch 11 [2.462 GHz]""","""0 Stations, 53Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-59,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 68Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-43,92,,"""Ch 1 [2.412 GHz]""","""4 Stations, 41Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:09 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-67,75,,"""Ch 6 [2.437 GHz]""","""0 Stations, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:09 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-74,57,,"""Ch 132 [5.660 GHz]""","""19 Stations, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","19
+"
+2021-12-06 4:26:09 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-77,46,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:09 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-79,40,,"""Ch 104 [5.520 GHz]""","""28 Stations, 5Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","28
+"
+2021-12-06 4:26:09 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-65,80,,"""Ch 100 [5.500 GHz]""","""1 Station, 8Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-69,70,,"""Ch 52 [5.260 GHz]""","""1 Station, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-65,80,,"""Ch 11 [2.462 GHz]""","""0 Stations, 47Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-64,80,,"""Ch 11 [2.462 GHz]""","""1 Station, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-72,62,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,84:3D:C6:C7:BB:70,"""""","""eduroam""",-78,43,,"""Ch 11 [2.462 GHz]""","""1 Station, 42Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-81,35,,"""Ch 6 [2.437 GHz]""","""2 Stations, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:15 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:15 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""1 Station, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-66,78,,"""Ch 1 [2.412 GHz]""","""1 Station, 63Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-73,60,,"""Ch 1 [2.412 GHz]""","""0 Stations, 41Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""9 Stations, 10Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","9
+"
+2021-12-06 4:26:15 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-71,65,,"""Ch 11 [2.462 GHz]""","""0 Stations, 53Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-59,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 74Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-46,92,,"""Ch 1 [2.412 GHz]""","""4 Stations, 40Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:15 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-67,75,,"""Ch 6 [2.437 GHz]""","""0 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:15 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-76,50,,"""Ch 132 [5.660 GHz]""","""20 Stations, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","20
+"
+2021-12-06 4:26:15 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-74,57,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:15 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-83,31,,"""Ch 104 [5.520 GHz]""","""26 Stations, 2Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","26
+"
+2021-12-06 4:26:15 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-65,80,,"""Ch 100 [5.500 GHz]""","""1 Station, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-80,38,,"""Ch 52 [5.260 GHz]""","""1 Station, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-83,31,,"""Ch 11 [2.462 GHz]""","""0 Stations, 47Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-82,33,,"""Ch 11 [2.462 GHz]""","""1 Station, 37Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-72,62,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:E7:7F,"""""","""eduroam""",-85,26,,"""Ch 56 [5.280 GHz]""","""19 Stations, 7Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","19
+"
+2021-12-06 4:26:20 PM,84:3D:C6:C7:BB:70,"""""","""eduroam""",-78,43,,"""Ch 11 [2.462 GHz]""","""1 Station, 42Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-81,35,,"""Ch 6 [2.437 GHz]""","""2 Stations, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:20 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:20 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""1 Station, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-66,78,,"""Ch 1 [2.412 GHz]""","""1 Station, 63Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-73,60,,"""Ch 1 [2.412 GHz]""","""0 Stations, 41Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""9 Stations, 10Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","9
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-83,31,,"""Ch 11 [2.462 GHz]""","""0 Stations, 57Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-59,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 74Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-42,92,,"""Ch 1 [2.412 GHz]""","""4 Stations, 42Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:20 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-75,53,,"""Ch 6 [2.437 GHz]""","""0 Stations, 37Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:20 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-76,50,,"""Ch 132 [5.660 GHz]""","""20 Stations, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","20
+"
+2021-12-06 4:26:20 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-83,31,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:20 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-82,33,,"""Ch 104 [5.520 GHz]""","""26 Stations, 2Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","26
+"
+2021-12-06 4:26:20 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-66,78,,"""Ch 100 [5.500 GHz]""","""1 Station, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-75,53,,"""Ch 52 [5.260 GHz]""","""1 Station, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-83,31,,"""Ch 11 [2.462 GHz]""","""0 Stations, 47Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-69,70,,"""Ch 11 [2.462 GHz]""","""1 Station, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-72,62,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 49Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:EB:70,"""""","""eduroam""",-84,29,,"""Ch 11 [2.462 GHz]""","""0 Stations, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:E7:7F,"""""","""eduroam""",-85,26,,"""Ch 56 [5.280 GHz]""","""19 Stations, 7Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","19
+"
+2021-12-06 4:26:25 PM,84:3D:C6:C7:BB:70,"""""","""eduroam""",-78,43,,"""Ch 11 [2.462 GHz]""","""0 Stations, 46Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-81,35,,"""Ch 6 [2.437 GHz]""","""2 Stations, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:25 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:25 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-74,57,,"""Ch 1 [2.412 GHz]""","""0 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-63,81,,"""Ch 1 [2.412 GHz]""","""1 Station, 63Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-73,60,,"""Ch 1 [2.412 GHz]""","""0 Stations, 41Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""9 Stations, 10Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","9
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-83,31,,"""Ch 11 [2.462 GHz]""","""0 Stations, 57Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-59,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 74Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-40,92,,"""Ch 1 [2.412 GHz]""","""4 Stations, 44Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:25 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-75,53,,"""Ch 6 [2.437 GHz]""","""0 Stations, 37Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:25 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-76,50,,"""Ch 132 [5.660 GHz]""","""20 Stations, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","20
+"
+2021-12-06 4:26:25 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-75,53,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:25 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-82,33,,"""Ch 104 [5.520 GHz]""","""26 Stations, 2Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","26
+"
+2021-12-06 4:26:25 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-63,81,,"""Ch 100 [5.500 GHz]""","""2 Stations, 7Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:30 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-79,40,,"""Ch 52 [5.260 GHz]""","""1 Station, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:30 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-71,65,,"""Ch 11 [2.462 GHz]""","""0 Stations, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-70,67,,"""Ch 11 [2.462 GHz]""","""1 Station, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-72,62,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 49Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:EB:70,"""""","""eduroam""",-84,29,,"""Ch 11 [2.462 GHz]""","""0 Stations, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:E7:7F,"""""","""eduroam""",-83,31,,"""Ch 56 [5.280 GHz]""","""19 Stations, 24Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","19
+"
+2021-12-06 4:26:30 PM,84:3D:C6:C7:BB:70,"""""","""eduroam""",-78,43,,"""Ch 11 [2.462 GHz]""","""0 Stations, 46Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-81,35,,"""Ch 6 [2.437 GHz]""","""2 Stations, 32Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:30 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:30 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-74,57,,"""Ch 1 [2.412 GHz]""","""0 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-63,81,,"""Ch 1 [2.412 GHz]""","""1 Station, 63Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:30 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-72,62,,"""Ch 1 [2.412 GHz]""","""0 Stations, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""8 Stations, 6Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","8
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-75,53,,"""Ch 11 [2.462 GHz]""","""0 Stations, 53Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-58,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 76Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-40,94,,"""Ch 1 [2.412 GHz]""","""4 Stations, 50Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:30 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-66,78,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:30 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-76,50,,"""Ch 132 [5.660 GHz]""","""20 Stations, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","20
+"
+2021-12-06 4:26:30 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-78,43,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:30 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-80,38,,"""Ch 104 [5.520 GHz]""","""24 Stations, 3Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","24
+"
+2021-12-06 4:26:30 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-62,81,,"""Ch 100 [5.500 GHz]""","""2 Stations, 7Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:35 PM,84:3D:C6:B9:1A:6F,"""""","""eduroam""",-74,57,,"""Ch 52 [5.260 GHz]""","""1 Station, 6Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:35 PM,84:3D:C6:C7:EF:50,"""""","""eduroam""",-67,75,,"""Ch 11 [2.462 GHz]""","""0 Stations, 43Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:12:43:D0,"""""","""eduroam""",-70,67,,"""Ch 11 [2.462 GHz]""","""1 Station, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:EA:30,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""0 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,84:3D:C6:B9:26:80,"""""","""eduroam""",-73,60,,"""Ch 6 [2.437 GHz]""","""1 Station, 49Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:EB:70,"""""","""eduroam""",-84,29,,"""Ch 11 [2.462 GHz]""","""0 Stations, 34Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:E7:7F,"""""","""eduroam""",-85,26,,"""Ch 56 [5.280 GHz]""","""19 Stations, 12Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","19
+"
+2021-12-06 4:26:35 PM,84:3D:C6:C7:BB:70,"""""","""eduroam""",-78,43,,"""Ch 11 [2.462 GHz]""","""0 Stations, 46Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,84:3D:C6:AD:80:C0,"""""","""eduroam""",-80,38,,"""Ch 6 [2.437 GHz]""","""2 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:35 PM,00:3A:7D:27:B5:F0,"""""","""eduroam""",-77,46,,"""Ch 1 [2.412 GHz]""","""2 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
+2021-12-06 4:26:35 PM,84:3D:C6:B4:DF:30,"""""","""eduroam""",-74,57,,"""Ch 1 [2.412 GHz]""","""0 Stations, 35Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:21:46:D0,"""""","""eduroam""",-63,81,,"""Ch 1 [2.412 GHz]""","""1 Station, 63Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:35 PM,84:3D:C6:B9:21:90,"""""","""eduroam""",-72,62,,"""Ch 1 [2.412 GHz]""","""0 Stations, 45Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:E4:F0,"""""","""eduroam""",-80,38,,"""Ch 1 [2.412 GHz]""","""0 Stations, 52Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:12:43:DF,"""""","""eduroam""",-83,31,,"""Ch 52 [5.260 GHz]""","""8 Stations, 6Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","8
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:E7:70,"""""","""eduroam""",-75,53,,"""Ch 11 [2.462 GHz]""","""0 Stations, 53Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:21:46:20,"""""","""eduroam""",-58,83,,"""Ch 1 [2.412 GHz]""","""0 Stations, 76Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:7B:40,"""""","""eduroam""",-40,94,,"""Ch 1 [2.412 GHz]""","""4 Stations, 40Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","4
+"
+2021-12-06 4:26:35 PM,84:3D:C6:B9:1A:60,"""""","""eduroam""",-66,78,,"""Ch 6 [2.437 GHz]""","""0 Stations, 36Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","0
+"
+2021-12-06 4:26:35 PM,00:3A:7D:21:46:2F,"""""","""eduroam""",-74,57,,"""Ch 132 [5.660 GHz]""","""20 Stations, 7Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","20
+"
+2021-12-06 4:26:35 PM,84:3D:C6:C7:EF:5F,"""""","""eduroam""",-75,53,,"""Ch 116 [5.580 GHz]""","""1 Station, 0Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","1
+"
+2021-12-06 4:26:35 PM,00:3A:7D:21:46:DF,"""""","""eduroam""",-79,40,,"""Ch 104 [5.520 GHz]""","""24 Stations, 5Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","24
+"
+2021-12-06 4:26:35 PM,00:3A:7D:34:7B:4F,"""""","""eduroam""",-60,82,,"""Ch 100 [5.500 GHz]""","""2 Stations, 4Xhannel Utilization""","""Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]""","2
+"
