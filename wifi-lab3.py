@@ -2,7 +2,7 @@ import csv
 import os
 
 def parse_files(input_file):
-    # create output file name from input file name
+    #Converts .txt file output by Homedale app into .csv for analysis
     fout = "parsed_{0}.csv".format(input_file[:-4])
     with open(input_file,"r") as fin:
         with open(fout, "w", newline='') as csvfile:
@@ -20,12 +20,9 @@ def parse_files(input_file):
                 else:
                     continue
 
-
-# parse_files("measurement10-group2.txt")
-
+#directly parses all files in a designated folder
 for filename in os.listdir("C:/Users/Adele/Documents/TU-Delft/Q2/GEO1003 - Geopositioning/Lab 3 - Wifi Fingerprinting/Geopositioning"):
     if filename.startswith("measurement") and filename.endswith(".txt"):
-         # print(os.path.join(directory, filename))
         parse_files(filename)
     else:
         continue
