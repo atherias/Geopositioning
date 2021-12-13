@@ -1,0 +1,806 @@
+﻿2021-12-06 4:26:09 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-78	43		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-78	43		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-79	40		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-79	40		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-72	62		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-72	62		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:09 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:D0	""	"eduroam"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-77	46		"Ch 6 [2.437 GHz]"	"1 Station, 51Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:30	""	"eduroam"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-78	43		"Ch 6 [2.437 GHz]"	"1 Station, 51Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-69	70		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-84	29		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-70	67		"Ch 1 [2.412 GHz]"	"1 Station, 62Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-79	40		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-70	67		"Ch 1 [2.412 GHz]"	"2 Stations, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D0	""	"eduroam"	-70	67		"Ch 1 [2.412 GHz]"	"2 Stations, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:90	""	"eduroam"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-79	40		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"1 Station, 62Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-71	65		"Ch 1 [2.412 GHz]"	"1 Station, 62Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:09 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:E7:70	""	"eduroam"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:20	""	"eduroam"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-51	87		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-51	87		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-51	87		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-51	87		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:40	""	"eduroam"	-43	92		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-51	87		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:09 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-82	33		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 68Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-74	57		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-76	50		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-75	53		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-75	53		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"1 Station, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:2F	""	"eduroam"	-74	57		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-75	53		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-77	46		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-77	46		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-77	46		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-77	46		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-77	46		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-80	38		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-80	38		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-80	38		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-80	38		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:DF	""	"eduroam"	-79	40		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-80	38		"Ch 104 [5.520 GHz]"	"28 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	28
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 8Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:09 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-86	24		"Ch 52 [5.260 GHz]"	"9 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-70	67		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-70	67		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-69	70		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-70	67		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-70	67		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-69	70		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-63	81		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-66	78		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-65	80		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-65	80		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-65	80		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-65	80		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-65	80		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-64	80		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-65	80		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-66	78		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-64	80		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:D0	""	"eduroam"	-64	80		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-72	62		"Ch 6 [2.437 GHz]"	"1 Station, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:30	""	"eduroam"	-72	62		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-78	43		"Ch 6 [2.437 GHz]"	"1 Station, 51Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-68	72		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-69	70		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-68	72		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:72	""	"tudelft-dastud"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:70	""	"eduroam"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D7	""	"TUD-facility"	-67	75		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:E4:F8	""	"Eiwittransitie"	-78	43		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:37	""	"TUD-facility"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:31	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:32	""	"tudelft-dastud"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:38	""	"Eiwittransitie"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-84	29		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-68	72		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-71	65		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-68	72		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-67	75		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D0	""	"eduroam"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:90	""	"eduroam"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-79	40		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"1 Station, 62Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 56Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-60	82		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:E7:70	""	"eduroam"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:20	""	"eduroam"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-60	82		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-45	91		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:40	""	"eduroam"	-46	92		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:15 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-82	33		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-60	82		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-75	53		"Ch 132 [5.660 GHz]"	"19 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:15 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:15 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"1 Station, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:2F	""	"eduroam"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:15 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-74	57		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-74	57		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-74	57		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-74	57		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-84	29		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-84	29		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-84	29		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:DF	""	"eduroam"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-66	78		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-65	80		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:15 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-86	24		"Ch 52 [5.260 GHz]"	"9 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-81	35		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-81	35		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-66	78		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-81	35		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-81	35		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-81	35		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-82	33		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-82	33		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:D0	""	"eduroam"	-82	33		"Ch 11 [2.462 GHz]"	"1 Station, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-72	62		"Ch 6 [2.437 GHz]"	"1 Station, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:30	""	"eduroam"	-72	62		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-78	43		"Ch 6 [2.437 GHz]"	"1 Station, 51Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-83	31		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-83	31		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:7A	""	"Delft Free Wifi"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:7E	""	"TUvisitor"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:7D	""	"tudelft-dastud"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:7F	""	"eduroam"	-85	26		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:78	""	"TUD-facility"	-87	22		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	8E:F9:7B:26:8F:8D	""	"iPhone Suus"	-89	18		"Ch 6 [2.437 GHz]"	"1 Station"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:72	""	"tudelft-dastud"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:70	""	"eduroam"	-78	43		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D7	""	"TUD-facility"	-67	75		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:E4:F8	""	"Eiwittransitie"	-78	43		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:37	""	"TUD-facility"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:31	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:32	""	"tudelft-dastud"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:38	""	"Eiwittransitie"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-83	31		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-82	33		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-73	60		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-74	57		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D0	""	"eduroam"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:90	""	"eduroam"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-79	40		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"1 Station, 62Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 56Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:E7:70	""	"eduroam"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:20	""	"eduroam"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-65	80		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-65	80		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-65	80		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-65	80		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:40	""	"eduroam"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-65	80		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:20 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-82	33		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-60	82		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-83	31		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-82	33		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-82	33		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-83	31		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"1 Station, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:2F	""	"eduroam"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-83	31		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-83	31		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-84	29		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-83	31		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-83	31		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-83	31		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:DF	""	"eduroam"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-67	75		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-67	75		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-67	75		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-67	75		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-66	78		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-67	75		"Ch 100 [5.500 GHz]"	"1 Station, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:20 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-86	24		"Ch 52 [5.260 GHz]"	"9 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-76	50		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-76	50		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-86	24		"Ch 52 [5.260 GHz]"	"9 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-67	75		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-67	75		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-69	70		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-68	72		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-73	60		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-68	72		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-68	72		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-68	72		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-68	72		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-68	72		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:D0	""	"eduroam"	-69	70		"Ch 11 [2.462 GHz]"	"1 Station, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-72	62		"Ch 6 [2.437 GHz]"	"1 Station, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:30	""	"eduroam"	-72	62		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-75	53		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-83	31		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:EB:70	""	"eduroam"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E5:E8	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:7A	""	"Delft Free Wifi"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:7E	""	"TUvisitor"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:7D	""	"tudelft-dastud"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:7F	""	"eduroam"	-85	26		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:78	""	"TUD-facility"	-87	22		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	8E:F9:7B:26:8F:8D	""	"iPhone Suus"	-89	18		"Ch 6 [2.437 GHz]"	"1 Station"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:72	""	"tudelft-dastud"	-74	57		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:70	""	"eduroam"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D7	""	"TUD-facility"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:34:E4:F8	""	"Eiwittransitie"	-78	43		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:37	""	"TUD-facility"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:31	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:32	""	"tudelft-dastud"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:38	""	"Eiwittransitie"	-76	50		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-74	57		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-74	57		"Ch 1 [2.412 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D0	""	"eduroam"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:90	""	"eduroam"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-79	40		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-73	60		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-76	50		"Ch 1 [2.412 GHz]"	"2 Stations, 56Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-84	29		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"9 Stations, 10Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-75	53		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:E7:70	""	"eduroam"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 70Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:20	""	"eduroam"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 70Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:40	""	"eduroam"	-40	92		"Ch 1 [2.412 GHz]"	"4 Stations, 44Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:25 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-82	33		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-60	82		"Ch 1 [2.412 GHz]"	"0 Stations, 74Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-78	43		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"1 Station, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:2F	""	"eduroam"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-70	67		"Ch 1 [2.412 GHz]"	"0 Stations, 41Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:DF	""	"eduroam"	-82	33		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-83	31		"Ch 104 [5.520 GHz]"	"26 Stations, 2Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	26
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-64	80		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-64	80		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-64	80		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:25 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-85	26		"Ch 52 [5.260 GHz]"	"9 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	9
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-83	31		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-80	38		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-79	40		"Ch 52 [5.260 GHz]"	"1 Station, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:30 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-76	50		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-71	65		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-73	60		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-68	72		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-71	65		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-71	65		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-71	65		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:D0	""	"eduroam"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-76	50		"Ch 6 [2.437 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:30	""	"eduroam"	-72	62		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-77	46		"Ch 6 [2.437 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-78	43		"Ch 6 [2.437 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-74	57		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-83	31		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EB:72	""	"tudelft-dastud"	-82	33		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EB:70	""	"eduroam"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E5:E8	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:7A	""	"Delft Free Wifi"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:7E	""	"TUvisitor"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:7D	""	"tudelft-dastud"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:7F	""	"eduroam"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:78	""	"TUD-facility"	-84	29		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	8E:F9:7B:26:8F:8D	""	"iPhone Suus"	-89	18		"Ch 6 [2.437 GHz]"	"1 Station"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:72	""	"tudelft-dastud"	-74	57		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:70	""	"eduroam"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D7	""	"TUD-facility"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:34:E4:F8	""	"Eiwittransitie"	-78	43		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:37	""	"TUD-facility"	-81	35		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:31	""	"TUvisitor"	-81	35		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:32	""	"tudelft-dastud"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:38	""	"Eiwittransitie"	-82	33		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-70	67		"Ch 6 [2.437 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-69	70		"Ch 1 [2.412 GHz]"	"1 Station, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-69	70		"Ch 1 [2.412 GHz]"	"1 Station, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-74	57		"Ch 1 [2.412 GHz]"	"2 Stations, 69Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-74	57		"Ch 1 [2.412 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D0	""	"eduroam"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:90	""	"eduroam"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-82	33		"Ch 1 [2.412 GHz]"	"0 Stations, 65Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-69	70		"Ch 1 [2.412 GHz]"	"1 Station, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-66	78		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-74	57		"Ch 1 [2.412 GHz]"	"2 Stations, 69Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:30 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-74	57		"Ch 1 [2.412 GHz]"	"2 Stations, 69Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-74	57		"Ch 11 [2.462 GHz]"	"0 Stations, 59Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:E7:70	""	"eduroam"	-75	53		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:20	""	"eduroam"	-58	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:40	""	"eduroam"	-40	94		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-41	93		"Ch 1 [2.412 GHz]"	"4 Stations, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:30 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-82	33		"Ch 6 [2.437 GHz]"	"2 Stations, 32Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-59	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-78	43		"Ch 132 [5.660 GHz]"	"20 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:2F	""	"eduroam"	-76	50		"Ch 132 [5.660 GHz]"	"20 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-77	46		"Ch 132 [5.660 GHz]"	"20 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-79	40		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-78	43		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-79	40		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-78	43		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-78	43		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-79	40		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-81	35		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-82	33		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-81	35		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-81	35		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:DF	""	"eduroam"	-80	38		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-81	35		"Ch 104 [5.520 GHz]"	"24 Stations, 3Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-63	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-62	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-62	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-62	81		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:30 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-83	31		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:DD	""	"tudelft-dastud"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 9Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D7	""	"Eiwittransitie"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 9Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:6A	""	"Delft Free Wifi"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:68	""	"TUD-facility"	-74	57		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:6E	""	"TUvisitor"	-75	53		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:6D	""	"tudelft-dastud"	-74	57		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:67	""	"Eiwittransitie"	-74	57		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:6F	""	"eduroam"	-74	57		"Ch 52 [5.260 GHz]"	"1 Station, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D8	""	"TUD-facility"	-85	26		"Ch 52 [5.260 GHz]"	"8 Stations, 9Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	00:3A:7D:34:E5:E7	""	"TUD-facility"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E5:E5	""	"Delft Free Wifi"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 51Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:71	""	"TUvisitor"	-83	31		"Ch 11 [2.462 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D5	""	"Delft Free Wifi"	-72	62		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:34:E5:E1	""	"TUvisitor"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:75	""	"Delft Free Wifi"	-71	65		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:75	""	"Delft Free Wifi"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:55	""	"Delft Free Wifi"	-66	78		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:57	""	"TUD-facility"	-67	75		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:77	""	"TUD-facility"	-72	62		"Ch 11 [2.462 GHz]"	"0 Stations, 58Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:51	""	"TUvisitor"	-67	75		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:77	""	"TUD-facility"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:52	""	"tudelft-dastud"	-67	75		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:72	""	"tudelft-dastud"	-70	67		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:58	""	"Eiwittransitie"	-68	72		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D7	""	"TUD-facility"	-72	62		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D1	""	"TUvisitor"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:50	""	"eduroam"	-67	75		"Ch 11 [2.462 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D2	""	"tudelft-dastud"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D8	""	"Eiwittransitie"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:D0	""	"eduroam"	-70	67		"Ch 11 [2.462 GHz]"	"1 Station, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C8	""	"Eiwittransitie"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:87	""	"TUD-facility"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:30	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:81	""	"TUvisitor"	-75	53		"Ch 6 [2.437 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:85	""	"Delft Free Wifi"	-77	46		"Ch 6 [2.437 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:82	""	"tudelft-dastud"	-78	43		"Ch 6 [2.437 GHz]"	"0 Stations, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:61	""	"TUvisitor"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:88	""	"Eiwittransitie"	-76	50		"Ch 6 [2.437 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:26:80	""	"eduroam"	-73	60		"Ch 6 [2.437 GHz]"	"1 Station, 49Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:38	""	"Eiwittransitie"	-72	62		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:35	""	"Delft Free Wifi"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:65	""	"Delft Free Wifi"	-67	75		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C1	""	"TUvisitor"	-79	40		"Ch 6 [2.437 GHz]"	"2 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C2	""	"tudelft-dastud"	-80	38		"Ch 6 [2.437 GHz]"	"2 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:EB:72	""	"tudelft-dastud"	-82	33		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:EB:70	""	"eduroam"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E5:E8	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:7A	""	"Delft Free Wifi"	-84	29		"Ch 56 [5.280 GHz]"	"19 Stations, 12Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:7E	""	"TUvisitor"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:7D	""	"tudelft-dastud"	-86	24		"Ch 56 [5.280 GHz]"	"19 Stations, 12Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:7F	""	"eduroam"	-85	26		"Ch 56 [5.280 GHz]"	"19 Stations, 12Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:78	""	"TUD-facility"	-85	26		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	8E:F9:7B:26:8F:8D	""	"iPhone Suus"	-89	18		"Ch 6 [2.437 GHz]"	"1 Station"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:72	""	"tudelft-dastud"	-74	57		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:70	""	"eduroam"	-78	43		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D7	""	"TUD-facility"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:34:E4:F8	""	"Eiwittransitie"	-78	43		"Ch 1 [2.412 GHz]"	"0 Stations, 57Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:37	""	"TUD-facility"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:31	""	"TUvisitor"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:32	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:38	""	"Eiwittransitie"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:77	""	"Eiwittransitie"	-83	31		"Ch 56 [5.280 GHz]"	"19 Stations, 24Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	19
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:37	""	"TUD-facility"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E5:E2	""	"tudelft-dastud"	-77	46		"Ch 11 [2.462 GHz]"	"1 Station, 43Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:71	""	"TUvisitor"	-79	40		"Ch 11 [2.462 GHz]"	"0 Stations, 46Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:F2:15	""	"Delft Free Wifi"	-85	26		"Ch 11 [2.462 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:67	""	"TUD-facility"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:F2:17	""	"TUD-facility"	-81	35		"Ch 11 [2.462 GHz]"	"0 Stations, 47Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:31	""	"TUvisitor"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:EA:32	""	"tudelft-dastud"	-73	60		"Ch 6 [2.437 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:62	""	"tudelft-dastud"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C0	""	"eduroam"	-80	38		"Ch 6 [2.437 GHz]"	"2 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D5	""	"Delft Free Wifi"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C7	""	"TUD-facility"	-81	35		"Ch 6 [2.437 GHz]"	"2 Stations, 39Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:E4:F1	""	"TUvisitor"	-84	29		"Ch 1 [2.412 GHz]"	"0 Stations, 70Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D1	""	"TUvisitor"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:27:B5:F2	""	"tudelft-dastud"	-73	60		"Ch 1 [2.412 GHz]"	"2 Stations, 54Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:27:B5:F5	""	"Delft Free Wifi"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:27:B5:F0	""	"eduroam"	-77	46		"Ch 1 [2.412 GHz]"	"2 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:30	""	"eduroam"	-74	57		"Ch 1 [2.412 GHz]"	"0 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D0	""	"eduroam"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 63Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:90	""	"eduroam"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E4:F0	""	"eduroam"	-80	38		"Ch 1 [2.412 GHz]"	"0 Stations, 52Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E4:F5	""	"Delft Free Wifi"	-82	33		"Ch 1 [2.412 GHz]"	"0 Stations, 65Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D2	""	"tudelft-dastud"	-63	81		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:92	""	"tudelft-dastud"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:98	""	"Eiwittransitie"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D8	""	"Eiwittransitie"	-62	81		"Ch 1 [2.412 GHz]"	"1 Station, 66Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:27:B5:F7	""	"TUD-facility"	-75	53		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:95	""	"Delft Free Wifi"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 44Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:DE	""	"TUvisitor"	-85	26		"Ch 52 [5.260 GHz]"	"8 Stations, 9Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	00:3A:7D:27:B5:F1	""	"TUvisitor"	-74	57		"Ch 1 [2.412 GHz]"	"2 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:DF	""	"eduroam"	-83	31		"Ch 52 [5.260 GHz]"	"8 Stations, 6Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:21	""	"TUvisitor"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 80Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:91	""	"TUvisitor"	-71	65		"Ch 1 [2.412 GHz]"	"0 Stations, 44Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:78	""	"Eiwittransitie"	-74	57		"Ch 11 [2.462 GHz]"	"0 Stations, 59Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:E7:70	""	"eduroam"	-75	53		"Ch 11 [2.462 GHz]"	"0 Stations, 53Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:28	""	"Eiwittransitie"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 80Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:27	""	"TUD-facility"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 80Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:20	""	"eduroam"	-58	83		"Ch 1 [2.412 GHz]"	"0 Stations, 76Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	84:3D:C6:C7:BB:78	""	"Eiwittransitie"	-79	40		"Ch 11 [2.462 GHz]"	"1 Station, 42Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:BD:59:27	""	"TUD-facility"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:25	""	"Delft Free Wifi"	-64	80		"Ch 1 [2.412 GHz]"	"0 Stations, 80Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:45	""	"Delft Free Wifi"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:47	""	"TUD-facility"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:41	""	"TUvisitor"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	84:3D:C6:BD:59:21	""	"TUvisitor"	-84	29		"Ch 11 [2.462 GHz]"	"0 Stations, 34Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:48	""	"Eiwittransitie"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:40	""	"eduroam"	-40	94		"Ch 1 [2.412 GHz]"	"4 Stations, 40Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:42	""	"tudelft-dastud"	-42	92		"Ch 1 [2.412 GHz]"	"4 Stations, 50Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	4
+2021-12-06 4:26:35 PM	84:3D:C6:AD:80:C5	""	"Delft Free Wifi"	-80	38		"Ch 6 [2.437 GHz]"	"2 Stations, 35Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:22	""	"tudelft-dastud"	-63	81		"Ch 1 [2.412 GHz]"	"0 Stations, 80Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:2A	""	"Delft Free Wifi"	-74	57		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:60	""	"eduroam"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 36Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:2E	""	"TUvisitor"	-74	57		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:2D	""	"tudelft-dastud"	-74	57		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	84:3D:C6:B9:1A:68	""	"Eiwittransitie"	-66	78		"Ch 6 [2.437 GHz]"	"0 Stations, 37Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:27	""	"Eiwittransitie"	-74	57		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	84:3D:C6:B4:DF:35	""	"Delft Free Wifi"	-81	35		"Ch 1 [2.412 GHz]"	"0 Stations, 33Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:2F	""	"eduroam"	-74	57		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	84:3D:C6:B9:21:97	""	"TUD-facility"	-72	62		"Ch 1 [2.412 GHz]"	"0 Stations, 45Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	0
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:28	""	"TUD-facility"	-75	53		"Ch 132 [5.660 GHz]"	"20 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	20
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:58	""	"TUD-facility"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:5E	""	"TUvisitor"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:5D	""	"tudelft-dastud"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:57	""	"Eiwittransitie"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:5F	""	"eduroam"	-75	53		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	84:3D:C6:C7:EF:5A	""	"Delft Free Wifi"	-76	50		"Ch 116 [5.580 GHz]"	"1 Station, 0Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	1
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:DA	""	"Delft Free Wifi"	-79	40		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D8	""	"TUD-facility"	-79	40		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:DE	""	"TUvisitor"	-80	38		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:D7	""	"Eiwittransitie"	-78	43		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:DF	""	"eduroam"	-79	40		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:21:46:DD	""	"tudelft-dastud"	-79	40		"Ch 104 [5.520 GHz]"	"24 Stations, 5Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	24
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:4A	""	"Delft Free Wifi"	-61	82		"Ch 100 [5.500 GHz]"	"2 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:48	""	"TUD-facility"	-61	82		"Ch 100 [5.500 GHz]"	"2 Stations, 7Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:4E	""	"TUvisitor"	-61	82		"Ch 100 [5.500 GHz]"	"2 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:4D	""	"tudelft-dastud"	-61	82		"Ch 100 [5.500 GHz]"	"2 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:4F	""	"eduroam"	-60	82		"Ch 100 [5.500 GHz]"	"2 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:34:7B:47	""	"Eiwittransitie"	-61	82		"Ch 100 [5.500 GHz]"	"2 Stations, 4Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	2
+2021-12-06 4:26:35 PM	00:3A:7D:12:43:DA	""	"Delft Free Wifi"	-84	29		"Ch 52 [5.260 GHz]"	"8 Stations, 9Xhannel Utilization"	"Wi-Fi [Intel(R) Wi-Fi 6 AX201 160MHz]"	8
