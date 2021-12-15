@@ -9,7 +9,8 @@ def parse_files(input_file):
     with open(input_file,"r") as fin:
         with open(fout, "w", newline='') as csvfile:
             text_writer = csv.writer(csvfile, delimiter=",")
-            header = ["date", "mac", "provider", "access_point", "signal_strength", "quality,unknown2", "frequency",
+            header = ["date", "mac", "provider", "access_point",
+                      "signal_strength", "quality,unknown2", "frequency",
                       "stations", "device", "station_count"]
             text_writer.writerow(header)
             all_lines = fin.readlines()
@@ -40,7 +41,7 @@ def get_axis(input_file,x_axis):
 
 x_axis = "x_axis.csv"
 # filename = "measurement22-group5.txt"
-# parse_files(filename, x_axis)
+# parse_files("measurement-geolab-30sec.txt")
 #directly parses all files in a designated folder
 # for filename in os.listdir("C:/Users/Adele/Documents/TU-Delft/Q2/GEO1003 - Geopositioning/Lab 3 - Wifi Fingerprinting/Geopositioning"):
 #     if filename.startswith("measurement") and filename.endswith(".txt"):
@@ -49,7 +50,8 @@ x_axis = "x_axis.csv"
 #     else:
 #         continue
 
-def identify_location(input_file):
+def identify_location(input_file,output_file):
+#if used in debugger, plots the signal pattern of "mystery location" above signals of each other location measured in log files
     mystery_location = pd.read_csv(input_file,sep=",",index_col = False, usecols=["mac","signal_strength"])
     mystery_mac_mean_signal = mystery_location.groupby('mac').mean().sort_values('mac')
     # ax1 = mystery_mac_mean_signal.plot(mystery_mac_mean_signal)
@@ -63,20 +65,19 @@ def identify_location(input_file):
         if filename.startswith("parsed") and filename.endswith(".csv"):
             reference_location = pd.read_csv(filename, sep=",", index_col=False, usecols=["mac", "signal_strength"])
             reference_mac_mean_signal = reference_location.groupby('mac').mean().sort_values('mac')
-            # plt_reference = ax2.plt.plot(reference_mac_mean_signal)
+            reference_mac_mean_signal.to_csv(output_file)
+    # plt_reference = ax2.plt.plot(reference_mac_mean_signal)
             ax2.plot(reference_mac_mean_signal)
             ax2.set_title(filename)
             plt.show()
             ax2.clear()
-
-            # fig, (plt_mystery, plt_reference) = plt.subplots(2)
-            # plt.show()
         else:
             continue
 
-identify_location("parsed_measurement-roomz-30sec.csv")
+identify_location("parsed_measurement-geolab-30sec.csv","geolab-mean-mac.csv")
 
-
+# fig, (plt_mystery, plt_reference) = plt.subplots(2)
+# plt.show()
 #
 # for filename in os.listdir("C:/Users/Adele/Documents/TU-Delft/Q2/GEO1003 - Geopositioning/Lab 3 - Wifi Fingerprinting/Geopositioning"):
 #     if filename.startswith("parsed") and filename.endswith(".csv"):
